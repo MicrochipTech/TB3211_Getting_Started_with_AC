@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Atmel Studio Solution File, Format Version 11.00
+VisualStudioVersion = 14.0.23107.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{54F91283-7BC4-4236-8FF9-10F437C3AD48}") = "PreventingFalseSpikeDetection", "PreventingFalseSpikeDetection\PreventingFalseSpikeDetection.cproj", "{780DD1AA-2F8C-4649-83E3-79ECE891A89D}"
+EndProject
+Project("{54F91283-7BC4-4236-8FF9-10F437C3AD48}") = "LevelCrossingDetector", "LevelCrossingDetector\LevelCrossingDetector.cproj", "{B7E228ED-FF91-4DBB-A34C-51ED677E30AA}"
+EndProject
+Project("{54F91283-7BC4-4236-8FF9-10F437C3AD48}") = "AnalogSignalPulse_DurationMeasurement", "AnalogSignalPulse_DurationMeasurement\AnalogSignalPulse_DurationMeasurement.cproj", "{BB1BAE1C-48FC-4910-A611-EE16149FB63E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|AVR = Debug|AVR
+		Release|AVR = Release|AVR
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{780DD1AA-2F8C-4649-83E3-79ECE891A89D}.Debug|AVR.ActiveCfg = Debug|AVR
+		{780DD1AA-2F8C-4649-83E3-79ECE891A89D}.Debug|AVR.Build.0 = Debug|AVR
+		{780DD1AA-2F8C-4649-83E3-79ECE891A89D}.Release|AVR.ActiveCfg = Release|AVR
+		{780DD1AA-2F8C-4649-83E3-79ECE891A89D}.Release|AVR.Build.0 = Release|AVR
+		{B7E228ED-FF91-4DBB-A34C-51ED677E30AA}.Debug|AVR.ActiveCfg = Debug|AVR
+		{B7E228ED-FF91-4DBB-A34C-51ED677E30AA}.Debug|AVR.Build.0 = Debug|AVR
+		{B7E228ED-FF91-4DBB-A34C-51ED677E30AA}.Release|AVR.ActiveCfg = Release|AVR
+		{B7E228ED-FF91-4DBB-A34C-51ED677E30AA}.Release|AVR.Build.0 = Release|AVR
+		{BB1BAE1C-48FC-4910-A611-EE16149FB63E}.Debug|AVR.ActiveCfg = Debug|AVR
+		{BB1BAE1C-48FC-4910-A611-EE16149FB63E}.Debug|AVR.Build.0 = Debug|AVR
+		{BB1BAE1C-48FC-4910-A611-EE16149FB63E}.Release|AVR.ActiveCfg = Release|AVR
+		{BB1BAE1C-48FC-4910-A611-EE16149FB63E}.Release|AVR.Build.0 = Release|AVR
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
